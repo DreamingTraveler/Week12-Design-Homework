@@ -410,30 +410,35 @@ footer{
     padding: 10px 15px 5px 15px;
   }
   #bt1{
-    margin-left: 0;
+    margin-left: 20%;
+    margin-bottom: 50px;
     padding: 0;
   }
 
   #bt2{
-    margin: 0;
-    padding: 200 0 0 100;
+    position: relative;
+    top: 30px;
+    right: 70%;
+
   }
 
   #bt3{
-    margin: 20% 0 0 83%;
+    position: relative;
+    bottom: 30px;
+    margin: 0 0 0 77%;
     padding: 0;
   }
 
   #bt4{
     position: relative;
-    bottom: 82;
-    margin: 0 0 0 117%;
+    bottom: 50px;
+    margin: 0 0 0 155%;
   }
 
   #bt5{
     position: relative;
     bottom: 160;
-    margin: 0 0 0 148%;
+    margin: 0 0 0 130%;
   }
 
   .contentBG{
@@ -472,7 +477,7 @@ footer{
   .contentImg4{
     width: 170px;
     height: 105px;
-    bottom: 65px;
+    bottom: 85px;
     margin-left: 110%;
   }
 
